@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExtraclaseDatos</string>
+    <string name="roll">Roll</string>
+    <string name="how_many">How many?</string>
+    <string name="ingrese_un_numero_al_arbol_aa">Ingrese un numero al arbol AA</string>
+    <string name="resgistar_numero">Resgistar numero</string>
+    <string name="numero_entero">numero entero</string>
+    <string name="preorden_actual_del_arbol">Preorden actual del arbol</string>
+    <string name="textview1">TextView</string>
+    <string name="inorden_actual_del_arbol">Inorden actual del arbol</string>
+    <string name="textview2">TextView</string>
+    <string name="post_orden_actual_del_arbol">Post orden actual del arbol</string>
+    <string name="textview3">TextView</string>
+    <string name="limpiar_arbol">Limpiar arbol</string>
+    <string name="registrar_numero">Registrar numero</string>
+</resources>
